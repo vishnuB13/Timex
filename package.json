@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vishnuB13/Timex/issues"
   },
-  "homepage": "https://github.com/vishnuB13/Timex#readme"
+  "homepage": "https://github.com/vishnuB13/Timex#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
